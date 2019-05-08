@@ -1,0 +1,9 @@
+﻿  hwsInputGenerator.cpp
+c:\users\hyowo\source\repos\softwareexpert\inputgenerator\hwsinputgenerator.cpp(9): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  inputGenerator.cpp
+  코드를 생성하고 있습니다.
+  32 of 51 functions (62.7%) were compiled, the rest were copied from previous compilation.
+    19 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  inputGenerator.vcxproj -> C:\Users\hyowo\source\repos\SoftwareExpert\x64\Release\inputGenerator.exe
